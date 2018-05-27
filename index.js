@@ -8,5 +8,6 @@ module.exports = { name, height
 if (name === "Susan") {
   console.log ("Correct")
 }
-else (name === "(Joe")
+else {
  console.log ("exepected sus")
+}
